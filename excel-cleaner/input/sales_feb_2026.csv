@@ -1,0 +1,47 @@
+Order ID,Date,City,Product,Qty,Amount
+ORD-1068,2026-02-02, Peshawar,Mouse,2,24.00
+ORD-1052,03-02-2026,KARACHI,Keyboard,3,USD 75
+ORD-1077,2 Feb 2026, Peshawar,Keyboard,2,$50
+ORD-1044,2026-02-18, Karachi,Printer,4,560.00
+ORD-1065,2026/02/22, Faisalabad,Router,4,180.00
+ORD-1075,21/02/2026,Karachi ,Keyboard,3,$75
+ORD-1070,2026-02-15,ISLAMABAD,Monitor,3,540.00
+ORD-1058,2026-02-01,Islamabad,Laptop,3,1.95k
+ORD-1057,03-02-2026,karachi,Router,3,n/a
+ORD-1051,2026/02/17, Islamabad,Router,4,$180
+ORD-1047,2026-02-14, Multan,Mouse,2,24.00
+ORD-1041,2026-02-20,lahore,Mouse,2,$24
+ORD-1062,17/02/2026, Islamabad,Router,3,$135
+ORD-1074,13 Feb 2026, Karachi,Laptop,2,1300
+ORD-1080,2026-02-21,Peshawar ,Printer,1,$140
+ORD-1067,27/02/2026,Karachi,Keyboard,1,25.00
+ORD-1048,2026-02-14,LAHORE,Laptop,2,1300
+ORD-1050,2026/02/13,lahore,Router,1,$45
+ORD-1057,03-02-2026,karachi,Router,3,USD 135
+ORD-1066,08-02-2026,lahore,Router,2,USD 90
+ORD-1043,08/02/2026,Islamabad,Laptop,1,650
+ORD-1046,23 Feb 2026,Islamabad ,Printer,2,$280
+ORD-1063,2026-02-26,Islamabad,Keyboard,3,75
+ORD-1060,9 Feb 2026,Lahore,Printer,4,$560
+ORD-1059,2026-02-09,Multan,Monitor,1,180.00
+ORD-1042,2026-02-18,Islamabad ,Mouse,1,USD 12
+,,,,,
+ORD-1049,05-02-2026, Lahore,Monitor,3,$540
+ORD-1061,2026-02-09,lahore,Laptop,2,1300.00
+ORD-1073,8 Feb 2026,Karachi,Printer,2,280.00
+ORD-1076,25-02-2026, Peshawar,Router,4,$180
+ORD-1078,27 Feb 2026,peshawar,Printer,1,140
+ORD-1064,2026/02/17, Lahore,Laptop,2,1300
+ORD-1071,2026-02-08,islamabad,Printer,3,420.00
+ORD-1069,23-02-2026, Karachi,Printer,2,$280
+ORD-1054,04/02/2026,Karachi,Printer,1,140.00
+ORD-1053,13-02-2026,Faisalabad ,Mouse,1,12.00
+ORD-1055,25/02/2026,islamabad,Keyboard,1,USD 25
+ORD-1079,05-02-2026, Karachi,Laptop,1,USD 650
+ORD-1041,2026-02-20,lahore,Mouse,2,$24
+ORD-1056,13/02/2026,Faisalabad ,Router,3,USD 135
+ORD-1070,2026-02-15,ISLAMABAD,Monitor,3,540.00
+,,,,,
+ORD-1072,2026/02/11, Karachi,Monitor,1,180.00
+ORD-1072,2026/02/11, Karachi,Monitor,1,180.00
+ORD-1045,23-02-2026,Multan ,Printer,2,USD 280

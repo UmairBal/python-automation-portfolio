@@ -1,0 +1,47 @@
+Order ID,Date,City,Product,Qty,Amount
+ORD-1085,2026/03/08, Multan,Laptop,3,1950
+ORD-1096,24-03-2026,multan,Keyboard,3,75.00
+ORD-1119,2026/03/08,Multan,Printer,2,$280
+ORD-1118,25-03-2026,Karachi ,Monitor,3,USD 540
+ORD-1111,1 Mar 2026, Islamabad,Monitor,1,180.00
+ORD-1099,18/03/2026,Lahore,Mouse,2,$24
+ORD-1097,04/03/2026,peshawar,Mouse,4,48
+ORD-1095,2026/03/06,MULTAN,Laptop,2,1300.00
+ORD-1101,2026/03/13,Peshawar ,Laptop,4,"$2,600"
+ORD-1103,03-03-2026, Lahore,Monitor,2,USD 360
+ORD-1108,8 Mar 2026,KARACHI,Laptop,2,"$1,300"
+ORD-1106,15/03/2026,karachi,Printer,4,$560
+ORD-1114,03-03-2026, Lahore,Mouse,4,48.00
+,,,,,
+ORD-1116,2026-03-07,Islamabad ,Router,4,180
+ORD-1082,01-03-2026,Multan,Laptop,4,2.6k
+ORD-1107,2026/03/27,Karachi ,Monitor,1,180
+ORD-1115,02-03-2026, Peshawar,Monitor,4,720.00
+ORD-1090,2026/03/12,Islamabad,Printer,1,140.00
+ORD-1106,15/03/2026,karachi,Printer,4,$560
+ORD-1084,12/03/2026,Faisalabad ,Monitor,3,540.00
+ORD-1087,13-03-2026,KARACHI,Mouse,3,36
+ORD-1098,18/03/2026,MULTAN,Monitor,4,USD 720
+ORD-1110,17 Mar 2026, Lahore,Laptop,3,1950.00
+ORD-1094,15 Mar 2026,LAHORE,Router,4,USD 180
+ORD-1120,2026-03-07,faisalabad,Mouse,1,USD 12
+ORD-1112,16 Mar 2026,Lahore ,Keyboard,2,$50
+ORD-1089,09-03-2026, Karachi,Router,3,USD 135
+ORD-1117,07-03-2026,lahore,Monitor,4,USD 720
+ORD-1081,2026-03-15,faisalabad,Mouse,4,48.00
+ORD-1084,12/03/2026,Faisalabad ,Monitor,3,540.00
+ORD-1092,17-03-2026,LAHORE,Keyboard,4,USD 100
+,,,,,
+ORD-1084,12/03/2026,Faisalabad ,Monitor,3,540.00
+ORD-1104,14-03-2026,karachi,Router,4,180
+ORD-1105,2026/03/19,Karachi,Mouse,4,USD 48
+ORD-1100,11/03/2026,ISLAMABAD,Keyboard,1,$25
+ORD-1083,13/03/2026,Lahore,Mouse,3,36
+ORD-1109,2026/03/17,Peshawar,Router,3,135
+ORD-1113,23-03-2026,Karachi,Laptop,4,"$2,600"
+ORD-1092,17-03-2026,LAHORE,Keyboard,4,USD 100
+ORD-1093,18 Mar 2026,Lahore,Laptop,4,2600
+ORD-1102,2026-03-11,MULTAN,Mouse,3,36.00
+ORD-1091,27-03-2026,peshawar,Laptop,1,n/a
+ORD-1086,2026/03/16,MULTAN,Monitor,1,$180
+ORD-1088,2026/03/27,karachi,Keyboard,3,75

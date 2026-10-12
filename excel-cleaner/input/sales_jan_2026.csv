@@ -1,0 +1,47 @@
+Order ID,Date,City,Product,Qty,Amount
+ORD-1004,8 Jan 2026,Karachi ,Printer,1,USD 140
+ORD-1011,4 Jan 2026,multan,Printer,1,140.00
+ORD-1013,2026/01/20, Faisalabad,Keyboard,3,75
+ORD-1016,6 Jan 2026, Karachi,Mouse,3,36
+ORD-1032,23-01-2026,FAISALABAD,Router,1,$45
+ORD-1027,2026/01/20,LAHORE,Laptop,2,1300.00
+ORD-1020,06/01/2026,lahore,Monitor,1,180
+ORD-1035,2026-01-12,KARACHI,Printer,4,USD 560
+ORD-1019,2026/01/23, Islamabad,Mouse,3,$36
+ORD-1018,2026/01/15,FAISALABAD,Laptop,2,"$1,300"
+ORD-1006,19-01-2026,faisalabad,Monitor,1,180
+,,,,,
+ORD-1023,2026/01/13,Multan,Mouse,4,USD 48
+ORD-1003,2026-01-08, Faisalabad,Mouse,1,12
+ORD-1014,2026-01-16,KARACHI,Laptop,3,1.95k
+ORD-1026,2026-01-18,Islamabad ,Printer,2,280
+ORD-1026,2026-01-18,Islamabad ,Printer,2,280
+,,,,,
+ORD-1017,05/01/2026, Multan,Monitor,3,USD 540
+ORD-1008,16 Jan 2026,MULTAN,Printer,2,USD 280
+ORD-1030,16/01/2026,Faisalabad,Router,3,$135
+ORD-1034,26/01/2026,multan,Printer,2,$280
+ORD-1024,02/01/2026,karachi,Router,4,USD 180
+ORD-1033,18 Jan 2026,FAISALABAD,Keyboard,2,$50
+ORD-1031,5 Jan 2026,Karachi ,Printer,3,420.00
+ORD-1025,11 Jan 2026,Karachi,Monitor,1,180
+ORD-1030,16/01/2026,Faisalabad,Router,3,$135
+ORD-1012,2026-01-14,Peshawar,Monitor,4,720.00
+ORD-1005,2 Jan 2026,LAHORE,Laptop,2,n/a
+ORD-1022,20 Jan 2026,islamabad,Printer,3,420
+ORD-1015,2026/01/10,PESHAWAR,Router,4,180
+ORD-1007,2026-01-12,Faisalabad,Printer,2,280
+ORD-1001,2026-01-13,Karachi ,Keyboard,2,50
+ORD-1006,19-01-2026,faisalabad,Monitor,1,180
+ORD-1009,12-01-2026,lahore,Printer,4,$560
+ORD-1039,2026-01-26,Peshawar,Router,3,USD 135
+ORD-1021,09-01-2026,karachi,Mouse,2,USD 24
+ORD-1029,2026-01-10,Lahore,Mouse,4,48.00
+ORD-1037,2026-01-08, Lahore,Keyboard,1,$25
+ORD-1038,16 Jan 2026,Faisalabad,Keyboard,2,USD 50
+ORD-1026,2026-01-18,Islamabad ,Printer,2,280
+ORD-1040,16/01/2026,MULTAN,Router,2,90
+ORD-1028,2026-01-16, Karachi,Printer,3,USD 420
+ORD-1036,23 Jan 2026, Islamabad,Keyboard,2,50.00
+ORD-1010,2026/01/17, Islamabad,Laptop,3,1950.00
+ORD-1002,17/01/2026,Karachi,Keyboard,1,USD 25
