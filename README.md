@@ -14,7 +14,7 @@ python clean_report.py
 
 Details: [excel-cleaner/README.md](excel-cleaner/README.md)
 
-![Cleaned sales report](screenshots/excel-cleaner.png)
+![Cleaned sales report](excel-cleaner/screenshots/excel-cleaner.png)
 
 ## web-scraper
 
@@ -28,7 +28,7 @@ python scraper.py --pages 3
 
 Details: [web-scraper/README.md](web-scraper/README.md)
 
-![Scraped book data in Excel](screenshots/web-scraper.png)
+![Scraped book data in Excel](web-scraper/screenshots/web-scraper.png)
 
 ## js-scraper
 
@@ -42,7 +42,7 @@ python scraper_js.py --pages 2
 
 Details: [js-scraper/README.md](js-scraper/README.md)
 
-![Scraped quotes in Excel](screenshots/js_quotes_sheet.png)
+![Scraped quotes in Excel](js-scraper/screenshots/js_quotes_sheet.png)
 
 ## Tech used
 

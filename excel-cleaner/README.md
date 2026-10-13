@@ -15,3 +15,7 @@ python make_sample_data.py   # creates messy sample files in input/
 python clean_report.py       # builds output/sales_report.xlsx
 ```
 Use your own files: `python clean_report.py --input path/to/folder --output report.xlsx`
+
+## Screenshots
+
+![Cleaned sales report](screenshots/excel-cleaner.png)

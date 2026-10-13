@@ -14,8 +14,16 @@ Target: https://quotes.toscrape.com/js/ (a public site made for scraping practic
 ## Run
 ```
 pip install -r requirements.txt
-playwright install chromium     # not needed if Google Chrome is installed
+playwright install chromium      # not needed if Google Chrome is installed
 python scraper_js.py --pages 2   # quick test
 python scraper_js.py             # all pages
 python scraper_js.py --headed    # watch the browser work
 ```
+
+## Screenshots
+
+![Quotes sheet](screenshots/js_quotes_sheet.png)
+
+![By Author sheet](screenshots/js_by_author.png)
+
+![Terminal run](screenshots/js_terminal.png)
