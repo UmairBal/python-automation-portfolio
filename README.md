@@ -44,6 +44,20 @@ Details: [js-scraper/README.md](js-scraper/README.md)
 
 ![Scraped quotes in Excel](js-scraper/screenshots/js_quotes_sheet.png)
 
+## price-tracker
+
+Collects live crypto prices from the CoinGecko public API on a schedule, keeps every run in a local SQLite history, compares each run with the previous one and flags moves above a threshold. It rebuilds `output/price_report.xlsx` with Latest, Alerts and History sheets and a price chart.
+
+```
+cd price-tracker
+pip install -r requirements.txt
+python tracker.py --every 10 --runs 4
+```
+
+Details: [price-tracker/README.md](price-tracker/README.md)
+
+![Price change since the previous run](price-tracker/screenshots/tracker_latest.png)
+
 ## Tech used
 
-Python, pandas, openpyxl, requests, BeautifulSoup, Playwright
+Python, pandas, openpyxl, requests, BeautifulSoup, Playwright, SQLite

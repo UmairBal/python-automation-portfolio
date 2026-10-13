@@ -11,3 +11,5 @@ web-scraper/output/run_log.txt
 *.webm
 *.mkv
 js-scraper/output/run_log.txt
+price-tracker/output/history.db
+price-tracker/output/run_log.txt
