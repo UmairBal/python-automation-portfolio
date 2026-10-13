@@ -30,6 +30,20 @@ Details: [web-scraper/README.md](web-scraper/README.md)
 
 ![Scraped book data in Excel](screenshots/web-scraper.png)
 
+## js-scraper
+
+Scrapes [quotes.toscrape.com/js](https://quotes.toscrape.com/js/), a practice site that only shows its content after JavaScript runs. A headless browser (Playwright) waits for each page to render and follows pagination. It saves every quote's text, author and tags to `output/quotes_data.xlsx`, with sheets counting quotes by author and by tag.
+
+```
+cd js-scraper
+pip install -r requirements.txt
+python scraper_js.py --pages 2
+```
+
+Details: [js-scraper/README.md](js-scraper/README.md)
+
+![Scraped quotes in Excel](screenshots/js_quotes_sheet.png)
+
 ## Tech used
 
-Python, pandas, openpyxl, requests, BeautifulSoup
+Python, pandas, openpyxl, requests, BeautifulSoup, Playwright

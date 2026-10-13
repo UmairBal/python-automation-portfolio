@@ -10,3 +10,4 @@ web-scraper/output/run_log.txt
 *.mov
 *.webm
 *.mkv
+js-scraper/output/run_log.txt
