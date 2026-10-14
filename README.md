@@ -58,6 +58,20 @@ Details: [price-tracker/README.md](price-tracker/README.md)
 
 ![Price change since the previous run](price-tracker/screenshots/tracker_latest.png)
 
+## login-scraper
+
+Logs into [quotes.toscrape.com](https://quotes.toscrape.com), a public practice site, by submitting the login form with its hidden CSRF token. It walks every list page, then opens each author's detail page and joins the two into `output/quotes_authors.xlsx` (Quotes, Authors and Summary sheets). Credentials come from environment variables, never from the code.
+
+```
+cd login-scraper
+pip install -r requirements.txt
+SCRAPER_USER=demo SCRAPER_PASS=demo python scraper_login.py
+```
+
+Details: [login-scraper/README.md](login-scraper/README.md)
+
+![Author details collected after login](login-scraper/screenshots/login_authors.png)
+
 ## Tech used
 
 Python, pandas, openpyxl, requests, BeautifulSoup, Playwright, SQLite
