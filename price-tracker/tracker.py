@@ -159,7 +159,7 @@ def write_report(con, latest: pd.DataFrame, alerts: pd.DataFrame, threshold: flo
 
 # ---------- main ----------
 
-def run_once(args, run_no: int):
+def run_once(args):
     run_at = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     rows = fetch_prices(args.coins)
     con = connect(args.db)
@@ -170,10 +170,10 @@ def run_once(args, run_no: int):
     con.close()
 
     if latest["prev_price"].isna().all():
-        print(f"Run {run_no} at {run_at}: {len(rows)} prices saved (first run, nothing to compare yet)")
+        print(f"Run {n_runs} at {run_at}: {len(rows)} prices saved (first run, nothing to compare yet)")
     else:
         moves = ", ".join(f"{r.symbol} {r.change_pct:+.2f}%" for r in alerts.itertuples()) or "none"
-        print(f"Run {run_no} at {run_at}: {len(rows)} prices, {len(alerts)} moved "
+        print(f"Run {n_runs} at {run_at}: {len(rows)} prices, {len(alerts)} moved "
               f">= {args.threshold}% ({moves})")
     print(f"  report updated: {args.output.name}  (history: {n_runs} runs)")
 
@@ -191,7 +191,7 @@ def main():
 
     total = args.runs if args.every else 1
     for i in range(1, total + 1):
-        run_once(args, i)
+        run_once(args)
         if i < total:
             time.sleep(args.every * 60)
 
