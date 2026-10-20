@@ -72,6 +72,18 @@ Details: [login-scraper/README.md](login-scraper/README.md)
 
 ![Author details collected after login](login-scraper/screenshots/login_authors.png)
 
+## telegram-bot
+
+A Telegram bot that watches crypto prices (CoinGecko) and messages you when a coin moves more than the percentage you choose. Commands: `/price btc`, `/top`, `/watch btc 2`, `/unwatch btc`, `/list`. Watches and alert history are kept in SQLite, so they survive restarts, and the bot token is read from an environment variable.
+
+```
+cd telegram-bot
+pip install -r requirements.txt
+TELEGRAM_BOT_TOKEN=... python bot.py --interval 60
+```
+
+Details: [telegram-bot/README.md](telegram-bot/README.md)
+
 ## Tech used
 
 Python, pandas, openpyxl, requests, BeautifulSoup, Playwright, SQLite

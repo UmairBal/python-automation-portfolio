@@ -14,3 +14,4 @@ js-scraper/output/run_log.txt
 price-tracker/output/history.db
 price-tracker/output/run_log.txt
 login-scraper/output/run_log.txt
+telegram-bot/output/
