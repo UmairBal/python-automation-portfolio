@@ -84,6 +84,18 @@ TELEGRAM_BOT_TOKEN=... python bot.py --interval 60
 
 Details: [telegram-bot/README.md](telegram-bot/README.md)
 
+## storefront-bot
+
+A shop inside Telegram: customers browse categories and products with buttons, add to a cart and check out with payment instructions, while the owner gets every order and confirms, ships or cancels it with commands. Stock is reserved at order time so nothing oversells, and products, prices and stock load from a Google Sheet (or `catalog.csv`).
+
+```
+cd storefront-bot
+pip install -r requirements.txt
+TELEGRAM_BOT_TOKEN=... python store_bot.py
+```
+
+Details: [storefront-bot/README.md](storefront-bot/README.md)
+
 ## Tech used
 
 Python, pandas, openpyxl, requests, BeautifulSoup, Playwright, SQLite
